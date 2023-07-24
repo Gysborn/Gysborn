@@ -1,5 +1,7 @@
+[![Header](https://github.com/Gysborn/Gysborn/blob/main/img_github.jpeg "Header")]
 
-# Hello! <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">
+
+# Hello! 
 
 My name is Dmitriy Masitsev and I'm beginner Python backend developer. I'm from Russia, living in Saint-Petersburg. 
 
