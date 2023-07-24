@@ -1,8 +1,7 @@
-[![Header](https://raw.githubusercontent.com/StanGirard/StanGirard/master/stangirard-logo.png "Header")](https://primates.dev/)
 
-# Hey guys! <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">
+# Hello! <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">
 
-My name is Stan Girard and I'm Head of Generative AI @Theodo. I'm from France, living in Paris. 
+My name is Dmitriy Masitsev and I'm beginner Python backend developer. I'm from Russia, living in Saint-Petersburg. 
 
 ## &#x270d; Blog & Writing
 
