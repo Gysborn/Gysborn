@@ -6,7 +6,7 @@
 My name is Dmitriy Masitsev and I'm beginner Python backend developer. I'm from Russia, living in Saint-Petersburg. 
 
 ## &#x270d; Hobbies
-Besides python, I also love chess,table tennis, car rides, traveling and reading popular science literature
+Besides python, I also love chess, table tennis, car rides, traveling and reading popular science literature
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
