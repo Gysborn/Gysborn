@@ -1,7 +1,7 @@
 ![Header](https://github.com/Gysborn/Gysborn/blob/main/visitka.jpeg "Header")
 
 
-# Hello! 
+# Hey guys! <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">
 
 My name is Dmitriy Masitsev and I'm beginner Python backend developer. I'm from Russia, living in Saint-Petersburg. 
 
