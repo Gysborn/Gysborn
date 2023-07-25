@@ -1,4 +1,4 @@
-![Header](https://github.com/Gysborn/Gysborn/blob/main/visitka3.png "Header")
+![Header](https://github.com/Gysborn/Gysborn/blob/main/visitka.jpeg "Header")
 
 
 # Hello! 
