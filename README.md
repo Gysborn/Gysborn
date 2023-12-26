@@ -19,3 +19,4 @@ Besides python, I also love chess, table tennis, car rides, traveling and readin
 ![](https://img.shields.io/badge/Tech-SQL_Alchemy-informational?style=flat&logo=api&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tech-PostgresSQl-informational?style=flat&logo=api&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://https://iotest-dpqpphduujnmgd9mot5weo.streamlit.app)
